@@ -30,6 +30,8 @@ Backend deployed separately
 Purpose
 Zenius aims to simplify the process of finding internships and hackathons for students. It serves as a centralized platform for opportunities and helps students stay updated with career-building events.
 
+live link: https://zenius-20.vercel.app/
+
 ## Screenshots
 
 ### Homepage
